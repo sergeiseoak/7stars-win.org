@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://7stars-win.org/sitemap.xml

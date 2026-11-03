@@ -1,0 +1,1 @@
+7stars-win.org static Cloudflare Pages deployment. Five source-content pages: /, /register/, /app/, /login/, /safety/. Unique affiliate 301 route: /visit-7stars/. GSC meta added. Deploy with Cloudflare Pages Direct Upload or Git. The supplied document contains legal claims that have not been independently fact checked.
